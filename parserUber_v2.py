@@ -11,7 +11,7 @@ from imapy.query_builder import Q
 #Vars
 email = 'youremail@gmail.com'
 password = 'yourpassword'
-imap_server = 'imap.gmai.com'
+imap_server = 'imap.gmail.com'
 emails_since = '27-Oct-2016'
 subject = 'Sua viagem de'
 
